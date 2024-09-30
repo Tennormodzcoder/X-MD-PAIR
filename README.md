@@ -25,3 +25,4 @@ if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
 MakeSession()
 
 ```
+***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTennormodzcoder%2Fx-md-pair)***
